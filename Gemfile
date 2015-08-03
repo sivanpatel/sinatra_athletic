@@ -1,4 +1,4 @@
-require 'http://rubygems.org'
+source 'http://rubygems.org'
 
 gem 'sinatra'
 gem 'shotgun'
